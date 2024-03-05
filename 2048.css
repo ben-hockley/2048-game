@@ -7,6 +7,7 @@ hr{
     width:500px;
 }
 
+/* Game board */
 #board{
     width:400px;
     height: 400px;
@@ -19,6 +20,7 @@ hr{
     flex-wrap:wrap;
 }
 
+/* CSS for all tiles */
 .tile{
     width:100px;
     height:100px;
@@ -34,6 +36,8 @@ hr{
     margin:0;
     padding:0;
 }
+
+/* different tiles */
 .t2{
     background-color: red;
 }
