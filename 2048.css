@@ -34,3 +34,37 @@ hr{
     margin:0;
     padding:0;
 }
+.t2{
+    background-color: red;
+}
+.t4{
+    background-color: green
+    ;
+}
+.t8{
+    background-color: purple;
+}
+.t16{
+    background-color: yellow;
+}
+.t32{
+    background-color: cyan;
+}
+.t64{
+    background-color: magenta;
+}
+.t128{
+    background-color: navy;
+}
+.t256{
+    background-color: darkgreen;
+}
+.t512{
+    background-color: maroon;
+}
+.t1024{
+    background-color: silver;
+}
+.t2048{
+    background-color: gold;
+}
